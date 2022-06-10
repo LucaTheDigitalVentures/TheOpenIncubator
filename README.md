@@ -1,4 +1,4 @@
-# TheScrapyIncubator
+# TheOpenIncubator
 
 
 ### WIP -- Looking for a logo -- > open a ticket and suggest one :)
