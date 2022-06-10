@@ -26,12 +26,12 @@ Ok, most repetitive message ever ... in short: collab space between, founders, C
 4. Get the idea formalized and added to our ideas folder
 
 ### for the CVC "Opportunity Finder"
-1. Open a ticket with your startup requiremetns [Cvc-template]
-2. Get it reviewed and added the the CVCWishes folder
-3. receive intro on the selected list of startups that meet your criteria
+1. Open a ticket with your startup requirements [Cvc-template]
+2. Get it reviewed and added the  CVCWishes folder
+3. receive an intro on the selected startups that do meet your criteria
 
 ### for the person that "I know It all" you guys are not doing it right/ good heart person with suggestions
-1. Open a ticket with your inititatives type [kindSuggestion-template]
+1. Open a ticket with your initiatives type [kindSuggestion-template]
 2. We will really thank you and keep on this page the name of the best 3 comments every year
 
 
